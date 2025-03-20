@@ -3,4 +3,4 @@ https://www.realdigital.org/hardware/blackboard
 
 ⭐ **If you find this repository useful, consider leaving a star!**  
 
-1[1](https://www.realdigital.org/img/d636294edf596a4a07a2eaadc87bd11f.png)
+![1](https://www.realdigital.org/img/d636294edf596a4a07a2eaadc87bd11f.png)
