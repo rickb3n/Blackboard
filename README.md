@@ -2,7 +2,7 @@
 
 This repository contains assembly code solutions to some exercises and challenges related to the ARM Cortex-A9 CPU (Instruction set ARMv7) of the Real Digital Blackboard.  
 
-## 📚 [Learn more about the Real Digital Blackboard](https://www.realdigital.org/hardware/blackboard)
+## 🌍 [Learn more about the Real Digital Blackboard](https://www.realdigital.org/hardware/blackboard)
 
 ## 📘 [Course link](https://www.realdigital.org/course/microprocessor)
 
